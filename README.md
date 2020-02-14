@@ -1,2 +1,3 @@
 # fw-auto
-Automation framework
+
+Automation framework using Selenium, Appium, Cucumber and JUnit
